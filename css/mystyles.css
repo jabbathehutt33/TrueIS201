@@ -1,0 +1,31 @@
+.header{
+    background-color:blanchedalmond;
+    color:darkslategray;
+    height: 75px;
+    line-height: 75px;
+    text-decoration: underline
+}
+
+.common{
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.subtitle{
+    font-size: medium;
+    text-decoration: underline;
+    background-color: blanchedalmond;
+    height: 50px;
+    line-height: 50px;
+    color:darkslategray
+}
+
+.mainbody{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: large;
+    color:darkslategray
+}
+
+.all{
+    background-image: url('../assets/img/background.avif')
+}
